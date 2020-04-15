@@ -1,3 +1,9 @@
+To run this project you have tu run:
+### `npm i`
+### `npm run start`
+
+The back-end have to be implemented with Realtime database. You can subscribe on piece creation from frontend and update automatically.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
